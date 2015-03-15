@@ -1,0 +1,262 @@
+[12-Jul-2014 08:28:13 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home4/aksme/public_html/demo/patient-logs/application/controllers/welcome.php on line 69
+[12-Jul-2014 08:28:24 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home4/aksme/public_html/demo/patient-logs/application/controllers/welcome.php on line 69
+[12-Jul-2014 08:29:41 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home4/aksme/public_html/demo/patient-logs/application/controllers/welcome.php on line 69
+[12-Jul-2014 08:29:50 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home4/aksme/public_html/demo/patient-logs/application/controllers/welcome.php on line 69
+[12-Jul-2014 08:49:30 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home4/aksme/public_html/demo/patient-logs/application/controllers/welcome.php on line 70
+[12-Jul-2014 08:50:59 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home4/aksme/public_html/demo/patient-logs/application/controllers/welcome.php on line 71
+[12-Jul-2014 08:51:03 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home4/aksme/public_html/demo/patient-logs/application/controllers/welcome.php on line 71
+[14-Jul-2014 00:43:34 America/Chicago] PHP Fatal error:  Call to a member function signup() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/controllers/residents.php on line 24
+[14-Jul-2014 00:50:55 America/Chicago] PHP Fatal error:  Call to a member function signup() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/controllers/residents.php on line 19
+[14-Jul-2014 00:51:05 America/Chicago] PHP Fatal error:  Call to a member function signup() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/controllers/residents.php on line 19
+[14-Jul-2014 00:56:43 America/Chicago] PHP Fatal error:  Call to a member function signup() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/controllers/residents.php on line 18
+[14-Jul-2014 01:02:26 America/Chicago] PHP Fatal error:  Call to a member function signup() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/controllers/residents.php on line 26
+[14-Jul-2014 01:03:29 America/Chicago] PHP Fatal error:  Call to a member function signup() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/controllers/residents.php on line 27
+[14-Jul-2014 01:04:16 America/Chicago] PHP Fatal error:  Call to a member function signup() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/controllers/residents.php on line 27
+[14-Jul-2014 01:04:52 America/Chicago] PHP Fatal error:  Call to a member function signup() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/controllers/residents.php on line 22
+[14-Jul-2014 01:05:53 America/Chicago] PHP Fatal error:  Call to a member function signup() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/controllers/residents.php on line 21
+[14-Jul-2014 01:06:36 America/Chicago] PHP Fatal error:  Call to a member function signup() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/controllers/residents.php on line 21
+[14-Jul-2014 01:07:59 America/Chicago] PHP Fatal error:  Call to a member function signup() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/controllers/residents.php on line 27
+[14-Jul-2014 01:08:56 America/Chicago] PHP Fatal error:  Call to a member function signup() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/controllers/residents.php on line 26
+[15-Jul-2014 01:27:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/aksme/public_html/demo/patient-logs/application/controllers/welcome.php on line 118
+[15-Jul-2014 01:28:53 America/Chicago] PHP Fatal error:  Call to a member function validate() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/controllers/welcome.php on line 51
+[15-Jul-2014 02:38:06 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home4/aksme/public_html/demo/patient-logs/application/views/dashboard.php on line 81
+[15-Jul-2014 08:44:16 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:44:16 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:44:16 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:39 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:39 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:40 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:40 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:40 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:40 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:41 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:42 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:42 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:42 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:42 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:42 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:42 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:42 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:42 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:42 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:43 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:43 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:43 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:43 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:43 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:43 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:43 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:43 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:43 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:43 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:43 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:43 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:43 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:47 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:49 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:49 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:49 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:49 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:49 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:49 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:50 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:50 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:50 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:50 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:50 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:50 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:50 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:50 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:50 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:50 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:50 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:51 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:51 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:52 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:52 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:52 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:52 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:52 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:52 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:53 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:53 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:53 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:53 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:53 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:53 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:46:54 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:25 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:25 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:25 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:30 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:32 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:32 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:32 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:34 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:48 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:49 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:51 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:51 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:51 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:51 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:51 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:54 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:54 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:54 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:54 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:54 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:54 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:54 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:54 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:54 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:54 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:55 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:55 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:55 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:55 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:55 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:55 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:56 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:56 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:47:56 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:51:00 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:51:00 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:51:01 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:51:01 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:51:01 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 67
+[15-Jul-2014 08:53:29 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 68
+[15-Jul-2014 08:53:29 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 68
+[15-Jul-2014 08:53:30 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 68
+[15-Jul-2014 08:53:30 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 68
+[15-Jul-2014 08:53:30 America/Chicago] PHP Fatal error:  Call to undefined method Org_model::chk_user() in /home4/aksme/public_html/demo/patient-logs/application/controllers/dashboard.php on line 68
+[16-Jul-2014 01:07:00 America/Los_Angeles] PHP Fatal error:  Call to a member function get_patent_field() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/resident_add_entry.php on line 25
+[16-Jul-2014 05:25:44 America/Chicago] PHP Fatal error:  Call to a member function get_user_data() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/change_password.php on line 25
+[16-Jul-2014 05:26:46 America/Chicago] PHP Fatal error:  Call to a member function get_user_data() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/change_password.php on line 25
+[16-Jul-2014 05:27:08 America/Chicago] PHP Fatal error:  Call to a member function get_user_data() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/change_password.php on line 25
+[16-Jul-2014 06:08:15 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/aksme/public_html/demo/patient-logs/application/views/resident_add_entry.php on line 3
+[17-Jul-2014 06:41:07 America/Chicago] PHP Fatal error:  Call to a member function get_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 45
+[17-Jul-2014 06:42:38 America/Chicago] PHP Fatal error:  Call to a member function get_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 45
+[17-Jul-2014 06:42:42 America/Chicago] PHP Fatal error:  Call to a member function get_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 45
+[17-Jul-2014 04:43:33 America/Los_Angeles] PHP Fatal error:  Call to a member function get_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 48
+[17-Jul-2014 04:44:57 America/Los_Angeles] PHP Fatal error:  Call to a member function get_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 48
+[17-Jul-2014 04:44:59 America/Los_Angeles] PHP Fatal error:  Call to a member function get_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 48
+[17-Jul-2014 04:45:54 America/Los_Angeles] PHP Fatal error:  Call to a member function get_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 48
+[17-Jul-2014 04:45:57 America/Los_Angeles] PHP Fatal error:  Call to a member function get_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 48
+[17-Jul-2014 06:46:19 America/Chicago] PHP Fatal error:  Class 'Report_model' not found in /home4/aksme/public_html/demo/patient-logs/system/core/Loader.php on line 303
+[17-Jul-2014 04:49:18 America/Los_Angeles] PHP Fatal error:  Call to a member function get_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 48
+[17-Jul-2014 07:21:03 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 64
+[17-Jul-2014 05:36:22 America/Los_Angeles] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::and_where() in /home4/aksme/public_html/demo/patient-logs/application/models/report_model.php on line 15
+[17-Jul-2014 05:38:35 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 59
+[17-Jul-2014 05:53:28 America/Los_Angeles] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::and_where() in /home4/aksme/public_html/demo/patient-logs/application/models/report_model.php on line 15
+[17-Jul-2014 08:03:49 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:11:30 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:11:32 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:11:34 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:12:25 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:12:27 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:12:30 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:12:41 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:26 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:27 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:29 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:30 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:31 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:31 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:31 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:31 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:31 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:32 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:32 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:32 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:32 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:32 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:32 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:32 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:32 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:33 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:33 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:33 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:34 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:35 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:13:35 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:14:22 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:14:24 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:14:25 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:14:25 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:14:25 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 08:14:25 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 66
+[17-Jul-2014 06:20:52 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[17-Jul-2014 06:38:20 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[17-Jul-2014 08:02:15 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[17-Jul-2014 08:02:20 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[17-Jul-2014 22:46:55 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[17-Jul-2014 23:24:23 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[17-Jul-2014 23:26:09 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[18-Jul-2014 03:42:15 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[18-Jul-2014 04:35:56 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[18-Jul-2014 04:37:12 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[18-Jul-2014 06:13:09 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[18-Jul-2014 07:12:02 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[18-Jul-2014 07:12:06 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[18-Jul-2014 07:27:24 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[18-Jul-2014 07:27:28 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[18-Jul-2014 07:28:12 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[19-Jul-2014 07:49:29 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[21-Jul-2014 05:48:07 America/Los_Angeles] PHP Fatal error:  Call to undefined method Org_model::get_dignosis_data() in /home4/aksme/public_html/demo/patient-logs/application/views/resident_add_entry.php on line 26
+[21-Jul-2014 23:07:11 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[21-Jul-2014 23:07:15 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[22-Jul-2014 02:32:18 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[22-Jul-2014 02:41:39 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/report.php on line 58
+[22-Jul-2014 04:33:18 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/reports.php on line 58
+[22-Jul-2014 04:34:42 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/reports.php on line 58
+[22-Jul-2014 05:57:50 America/Los_Angeles] PHP Fatal error:  Call to a member function get_res_patient_detail() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/reports.php on line 8
+[24-Jul-2014 06:36:58 America/Los_Angeles] PHP Fatal error:  Call to a member function result() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/models/report_model.php on line 136
+[28-Jul-2014 09:10:14 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home4/aksme/public_html/demo/patient-logs/application/views/resident_add_entry.php on line 37
+[28-Jul-2014 09:15:41 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home4/aksme/public_html/demo/patient-logs/application/views/resident_add_entry.php on line 111
+[29-Jul-2014 04:39:15 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home4/aksme/public_html/demo/patient-logs/application/views/resident_add_entry.php on line 110
+[29-Jul-2014 04:39:19 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home4/aksme/public_html/demo/patient-logs/application/views/resident_add_entry.php on line 110
+[29-Jul-2014 05:15:34 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home4/aksme/public_html/demo/patient-logs/application/views/resident_add_entry.php on line 163
+[29-Jul-2014 06:04:12 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home4/aksme/public_html/demo/patient-logs/application/views/resident_add_entry.php on line 169
+[29-Jul-2014 07:23:21 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home4/aksme/public_html/demo/patient-logs/application/views/resident_add_entry.php on line 169
+[04-Aug-2014 05:43:25 America/Los_Angeles] PHP Fatal error:  Call to undefined method Org_model::get_all_dignosis_data() in /home4/aksme/public_html/demo/patient-logs/application/views/resident_add_entry.php on line 13
+[05-Aug-2014 23:16:54 America/Los_Angeles] PHP Fatal error:  Call to undefined function pagination_demo() in /home4/aksme/public_html/demo/patient-logs/application/views/resident_info.php on line 54
+[06-Aug-2014 02:03:36 America/Los_Angeles] PHP Fatal error:  Call to a member function initialize() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/views/patient_logs.php on line 76
+[08-Aug-2014 09:06:54 America/Chicago] PHP Fatal error:  Call to undefined function error_report() in /home4/aksme/public_html/demo/patient-logs/application/views/resident_add_entry.php on line 5
+[11-Aug-2014 23:24:47 America/Los_Angeles] PHP Fatal error:  Call to undefined method User_model::get_remaining_data() in /home4/aksme/public_html/demo/patient-logs/application/views/patient_logs.php on line 130
+[11-Aug-2014 23:25:10 America/Los_Angeles] PHP Fatal error:  Call to undefined method User_model::get_remaining_data() in /home4/aksme/public_html/demo/patient-logs/application/views/patient_logs.php on line 130
+[14-Aug-2014 04:28:34 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home4/aksme/public_html/demo/patient-logs/application/models/user_model.php on line 145
+[14-Aug-2014 05:37:07 America/Chicago] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home4/aksme/public_html/demo/patient-logs/application/models/user_model.php on line 47
+[14-Aug-2014 05:37:10 America/Chicago] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home4/aksme/public_html/demo/patient-logs/application/models/user_model.php on line 47
+[14-Aug-2014 05:37:13 America/Chicago] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home4/aksme/public_html/demo/patient-logs/application/models/user_model.php on line 47
+[14-Aug-2014 05:37:21 America/Chicago] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home4/aksme/public_html/demo/patient-logs/application/models/user_model.php on line 47
+[14-Aug-2014 03:37:30 America/Los_Angeles] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home4/aksme/public_html/demo/patient-logs/application/models/user_model.php on line 47
+[14-Aug-2014 03:37:31 America/Los_Angeles] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home4/aksme/public_html/demo/patient-logs/application/models/user_model.php on line 47
+[14-Aug-2014 03:38:25 America/Los_Angeles] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home4/aksme/public_html/demo/patient-logs/application/models/user_model.php on line 47
+[14-Aug-2014 03:38:46 America/Los_Angeles] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home4/aksme/public_html/demo/patient-logs/application/models/user_model.php on line 47
+[14-Aug-2014 05:41:44 America/Chicago] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home4/aksme/public_html/demo/patient-logs/application/models/user_model.php on line 47
+[16-Aug-2014 05:54:25 America/Chicago] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home4/aksme/public_html/demo/patient-logs/application/models/user_model.php on line 47
+[19-Aug-2014 00:11:20 America/Los_Angeles] PHP Fatal error:  Call to undefined function STR_TO_DATE() in /home4/aksme/public_html/demo/patient-logs/application/models/user_model.php on line 458
+[19-Aug-2014 00:21:31 America/Los_Angeles] PHP Fatal error:  Call to undefined function STR_TO_DATE() in /home4/aksme/public_html/demo/patient-logs/application/models/user_model.php on line 485
+[19-Aug-2014 00:25:48 America/Los_Angeles] PHP Fatal error:  Call to a member function quote() on a non-object in /home4/aksme/public_html/demo/patient-logs/application/models/user_model.php on line 454
+[19-Aug-2014 00:27:01 America/Los_Angeles] PHP Fatal error:  Call to undefined function STR_TO_DATE() in /home4/aksme/public_html/demo/patient-logs/application/models/user_model.php on line 490
+[19-Aug-2014 00:29:16 America/Los_Angeles] PHP Fatal error:  Call to undefined function STR_TO_DATE() in /home4/aksme/public_html/demo/patient-logs/application/models/user_model.php on line 490
+[19-Aug-2014 04:55:17 America/Los_Angeles] PHP Parse error:  syntax error, unexpected $end in /home4/aksme/public_html/demo/patient-logs/application/views/resident_add_entry.php on line 131
+[19-Aug-2014 23:56:38 America/Los_Angeles] PHP Fatal error:  Call to undefined method Org_model::limit() in /home4/aksme/public_html/demo/patient-logs/application/models/org_model.php on line 117
+[20-Aug-2014 02:04:00 America/Los_Angeles] PHP Fatal error:  Call to undefined function STR_TO_DATE() in /home4/aksme/public_html/demo/patient-logs/application/models/user_model.php on line 571
+[20-Aug-2014 02:09:21 America/Los_Angeles] PHP Fatal error:  Call to undefined function STR_TO_DATE() in /home4/aksme/public_html/demo/patient-logs/application/models/user_model.php on line 571
+[20-Aug-2014 02:14:38 America/Los_Angeles] PHP Fatal error:  Call to undefined function STR_TO_DATE() in /home4/aksme/public_html/demo/patient-logs/application/models/user_model.php on line 572
+[20-Aug-2014 02:15:06 America/Los_Angeles] PHP Fatal error:  Call to undefined function STR_TO_DATE() in /home4/aksme/public_html/demo/patient-logs/application/models/user_model.php on line 572
+[20-Aug-2014 23:42:26 America/Los_Angeles] PHP Fatal error:  Cannot use object of type stdClass as array in /home4/aksme/public_html/demo/patient-logs/application/views/patient_logs.php on line 424
+[23-Aug-2014 03:29:15 Canada/Eastern] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home4/aksme/public_html/demo/patient-logs/application/models/org_model.php on line 310
+[03-Sep-2014 02:38:01 Canada/Eastern] PHP Fatal error:  Cannot redeclare redirect() (previously declared in /home/pic14/public_html/patientlogs.com/system/helpers/url_helper.php:531) in /home/pic14/public_html/patientlogs.com/application/views/admin.php on line 68
+[03-Sep-2014 02:39:51 Canada/Eastern] PHP Fatal error:  Cannot redeclare redirect() (previously declared in /home/pic14/public_html/patientlogs.com/system/helpers/url_helper.php:531) in /home/pic14/public_html/patientlogs.com/application/views/admin.php on line 68
+[03-Sep-2014 02:39:54 Canada/Eastern] PHP Fatal error:  Cannot redeclare redirect() (previously declared in /home/pic14/public_html/patientlogs.com/system/helpers/url_helper.php:531) in /home/pic14/public_html/patientlogs.com/application/views/admin.php on line 68
+[03-Sep-2014 20:49:57 Canada/Eastern] PHP Parse error:  syntax error, unexpected 'Diagnosis' (T_STRING), expecting ',' or ';' in /home/pic14/public_html/patientlogs.com/application/views/patient_logs.php on line 149
+[03-Sep-2014 20:49:59 Canada/Eastern] PHP Parse error:  syntax error, unexpected 'Diagnosis' (T_STRING), expecting ',' or ';' in /home/pic14/public_html/patientlogs.com/application/views/patient_logs.php on line 149
+[03-Sep-2014 20:50:48 Canada/Eastern] PHP Parse error:  syntax error, unexpected 'Diagnosis' (T_STRING), expecting ',' or ';' in /home/pic14/public_html/patientlogs.com/application/views/patient_logs.php on line 149
+[03-Sep-2014 20:50:50 Canada/Eastern] PHP Parse error:  syntax error, unexpected 'Diagnosis' (T_STRING), expecting ',' or ';' in /home/pic14/public_html/patientlogs.com/application/views/patient_logs.php on line 149
+[06-Sep-2014 02:26:55 Canada/Eastern] PHP Fatal error:  Cannot redeclare Report_model::scndary_diagnosis_for_report() in /home/pic14/public_html/patientlogs.com/application/models/report_model.php on line 388
+[06-Sep-2014 02:27:53 Canada/Eastern] PHP Fatal error:  Cannot redeclare Report_model::scndary_diagnosis_for_report() in /home/pic14/public_html/patientlogs.com/application/models/report_model.php on line 388
+[09-Sep-2014 04:51:02 Canada/Eastern] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/pic14/public_html/patientlogs.com/application/models/report_model.php on line 161
+[09-Sep-2014 21:14:33 Canada/Eastern] PHP Parse error:  syntax error, unexpected ';' in /home/pic14/public_html/patientlogs.com/application/views/header.php on line 45
+[14-Mar-2015 13:01:24 Canada/Eastern] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/pic14/public_html/patientlogs.com/application/views/change_password.php on line 178
